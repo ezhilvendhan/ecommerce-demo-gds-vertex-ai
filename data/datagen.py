@@ -80,11 +80,14 @@ _p=0
 for c in range(c_category):
     print("{0},category_name_{0}".format(_c), file=ofile_node_category)
     for s in range(c_sku):
-        print("{0},sku_name_{0},brand:{1}#colour:{2}#serial:{3},{1},{2},{3}".format(
+        print("{0},sku_name_{0},brand:{1}#colour:{2}#serial:{3},{4},{5},{3}".format(
             _s,
             attr_list_brand[fake.pyint(0,attr_brand-1,1)],
             attr_list_color[fake.pyint(0,attr_color-1,1)],
-            attr_list_weight[fake.pyint(0,attr_weight-1,1)]
+            attr_list_weight[fake.pyint(0,attr_weight-1,1)],
+            fake.pyint(0,attr_brand-1,1),
+            fake.pyint(0,attr_color-1,1),
+            fake.pyint(0,attr_weight-1,1)
             ), file=ofile_node_sku)
         print("{0},{1}".format(_s,_c), file=ofile_relation_IS_CATEGORY)
         for k in range(c_keyword):
