@@ -1,0 +1,201 @@
+id,type,value
+0,'brand',Chang-Fisher
+1,'brand',Sheppard-Tucker
+2,'brand',Faulkner-Howard
+3,'brand',Wagner LLC
+4,'brand',Campos PLC
+5,'brand',Archer-Patel
+6,'brand',Patrick Barrera and Collins
+7,'brand',Jones Jefferson and Rivera
+8,'brand',Garcia Hamilton and Carr
+9,'brand',Levy Group
+10,'brand',Grimes-Green
+11,'brand',Moon Davis and Larsen
+12,'brand',Summers Barnett and Smith
+13,'brand',Clayton-Cook
+14,'brand',Nguyen Harrell and Lee
+15,'brand',Walker Pratt and Thomas
+16,'brand',West Miller and Flores
+17,'brand',Bolton Burns and Turner
+18,'brand',Mann-Kelley
+19,'brand',Harris Lloyd and Payne
+20,'brand',Wallace-Carlson
+21,'brand',Stewart-Allen
+22,'brand',Lopez and Sons
+23,'brand',Salazar Ltd
+24,'brand',Alvarez-Davis
+25,'brand',Mcdowell Inc
+26,'brand',Villanueva PLC
+27,'brand',Myers Thornton and Hill
+28,'brand',Atkinson Ltd
+29,'brand',Bryan Barnes and Hill
+30,'brand',Keller-Davies
+31,'brand',Miller-Salazar
+32,'brand',Matthews-Rogers
+33,'brand',Sanchez Ltd
+34,'brand',Wilson-Robinson
+35,'brand',Cook Inc
+36,'brand',Logan Ltd
+37,'brand',Williams PLC
+38,'brand',Kent Ferguson and Becker
+39,'brand',Martinez and Sons
+40,'brand',Greer Wilson and Davis
+41,'brand',Johnson Inc
+42,'brand',Woodward and Sons
+43,'brand',Martinez Clark and Owen
+44,'brand',Johnson Coleman and Garcia
+45,'brand',Jones-Jones
+46,'brand',Bell-White
+47,'brand',Mcdonald Carlson and Lyons
+48,'brand',Gonzalez-Howard
+49,'brand',Harrison Barrera and Hudson
+50,'colour',GreenYellow
+51,'colour',Chartreuse
+52,'colour',DimGray
+53,'colour',DodgerBlue
+54,'colour',MediumSpringGreen
+55,'colour',Wheat
+56,'colour',LightCoral
+57,'colour',DarkOrchid
+58,'colour',Red
+59,'colour',ForestGreen
+60,'colour',Aquamarine
+61,'colour',SeaShell
+62,'colour',PaleTurquoise
+63,'colour',Teal
+64,'colour',Magenta
+65,'colour',MintCream
+66,'colour',Orange
+67,'colour',LightCoral
+68,'colour',DeepSkyBlue
+69,'colour',Aquamarine
+70,'colour',Salmon
+71,'colour',Cyan
+72,'colour',MediumSeaGreen
+73,'colour',Brown
+74,'colour',YellowGreen
+75,'colour',LightSeaGreen
+76,'colour',DarkSlateBlue
+77,'colour',LawnGreen
+78,'colour',SkyBlue
+79,'colour',MidnightBlue
+80,'colour',LightSlateGray
+81,'colour',MintCream
+82,'colour',DarkSeaGreen
+83,'colour',Magenta
+84,'colour',Orange
+85,'colour',PapayaWhip
+86,'colour',Cyan
+87,'colour',AliceBlue
+88,'colour',GoldenRod
+89,'colour',MediumSeaGreen
+90,'colour',DimGray
+91,'colour',LawnGreen
+92,'colour',Ivory
+93,'colour',RosyBrown
+94,'colour',OldLace
+95,'colour',PapayaWhip
+96,'colour',BlanchedAlmond
+97,'colour',PaleGoldenRod
+98,'colour',PeachPuff
+99,'colour',Brown
+100,'weight',31715
+101,'weight',68373
+102,'weight',18373
+103,'weight',43977
+104,'weight',30668
+105,'weight',68505
+106,'weight',79150
+107,'weight',73866
+108,'weight',83584
+109,'weight',89164
+110,'weight',10009
+111,'weight',15100
+112,'weight',74825
+113,'weight',52722
+114,'weight',50902
+115,'weight',71196
+116,'weight',16534
+117,'weight',64412
+118,'weight',34641
+119,'weight',81901
+120,'weight',92980
+121,'weight',20940
+122,'weight',27107
+123,'weight',11930
+124,'weight',62666
+125,'weight',98934
+126,'weight',64720
+127,'weight',51441
+128,'weight',10444
+129,'weight',37987
+130,'weight',11873
+131,'weight',10309
+132,'weight',98573
+133,'weight',79251
+134,'weight',90224
+135,'weight',22816
+136,'weight',34963
+137,'weight',25584
+138,'weight',89738
+139,'weight',95100
+140,'weight',36019
+141,'weight',49638
+142,'weight',46697
+143,'weight',33884
+144,'weight',23130
+145,'weight',72338
+146,'weight',61995
+147,'weight',92265
+148,'weight',20662
+149,'weight',12863
+150,'weight',46007
+151,'weight',69372
+152,'weight',25175
+153,'weight',43618
+154,'weight',27487
+155,'weight',95664
+156,'weight',78270
+157,'weight',95299
+158,'weight',94533
+159,'weight',55488
+160,'weight',25087
+161,'weight',30242
+162,'weight',46491
+163,'weight',12434
+164,'weight',15544
+165,'weight',15329
+166,'weight',36966
+167,'weight',99259
+168,'weight',44035
+169,'weight',83184
+170,'weight',51250
+171,'weight',58089
+172,'weight',84379
+173,'weight',15505
+174,'weight',89638
+175,'weight',95899
+176,'weight',74813
+177,'weight',94429
+178,'weight',70118
+179,'weight',93904
+180,'weight',67074
+181,'weight',58817
+182,'weight',80507
+183,'weight',33368
+184,'weight',37242
+185,'weight',59227
+186,'weight',86955
+187,'weight',48146
+188,'weight',11166
+189,'weight',28147
+190,'weight',29794
+191,'weight',45569
+192,'weight',53700
+193,'weight',54238
+194,'weight',58129
+195,'weight',22282
+196,'weight',54335
+197,'weight',91335
+198,'weight',14674
+199,'weight',15400

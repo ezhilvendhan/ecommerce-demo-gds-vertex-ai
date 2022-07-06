@@ -1,0 +1,101 @@
+id,name,attributes,brand,colour,serial
+0,sku_name_0,brand:Bolton Burns and Turner#colour:Aquamarine#serial:81901,Bolton Burns and Turner,Aquamarine,81901
+1,sku_name_1,brand:Mann-Kelley#colour:BlanchedAlmond#serial:46697,Mann-Kelley,BlanchedAlmond,46697
+2,sku_name_2,brand:Alvarez-Davis#colour:DarkSlateBlue#serial:68373,Alvarez-Davis,DarkSlateBlue,68373
+3,sku_name_3,brand:Martinez and Sons#colour:Aquamarine#serial:70118,Martinez and Sons,Aquamarine,70118
+4,sku_name_4,brand:Martinez and Sons#colour:Chartreuse#serial:99259,Martinez and Sons,Chartreuse,99259
+5,sku_name_5,brand:Myers Thornton and Hill#colour:Aquamarine#serial:31715,Myers Thornton and Hill,Aquamarine,31715
+6,sku_name_6,brand:Grimes-Green#colour:PapayaWhip#serial:46697,Grimes-Green,PapayaWhip,46697
+7,sku_name_7,brand:Martinez and Sons#colour:Salmon#serial:46007,Martinez and Sons,Salmon,46007
+8,sku_name_8,brand:Wilson-Robinson#colour:Brown#serial:92980,Wilson-Robinson,Brown,92980
+9,sku_name_9,brand:Summers Barnett and Smith#colour:DarkSlateBlue#serial:15329,Summers Barnett and Smith,DarkSlateBlue,15329
+10,sku_name_10,brand:Archer-Patel#colour:DimGray#serial:81901,Archer-Patel,DimGray,81901
+11,sku_name_11,brand:Wilson-Robinson#colour:Chartreuse#serial:11930,Wilson-Robinson,Chartreuse,11930
+12,sku_name_12,brand:Archer-Patel#colour:DarkSlateBlue#serial:95100,Archer-Patel,DarkSlateBlue,95100
+13,sku_name_13,brand:Matthews-Rogers#colour:DarkOrchid#serial:68505,Matthews-Rogers,DarkOrchid,68505
+14,sku_name_14,brand:Lopez and Sons#colour:Orange#serial:37242,Lopez and Sons,Orange,37242
+15,sku_name_15,brand:Summers Barnett and Smith#colour:PaleTurquoise#serial:25584,Summers Barnett and Smith,PaleTurquoise,25584
+16,sku_name_16,brand:Myers Thornton and Hill#colour:LawnGreen#serial:25175,Myers Thornton and Hill,LawnGreen,25175
+17,sku_name_17,brand:Martinez Clark and Owen#colour:MintCream#serial:81901,Martinez Clark and Owen,MintCream,81901
+18,sku_name_18,brand:Miller-Salazar#colour:ForestGreen#serial:67074,Miller-Salazar,ForestGreen,67074
+19,sku_name_19,brand:Harrison Barrera and Hudson#colour:DimGray#serial:61995,Harrison Barrera and Hudson,DimGray,61995
+20,sku_name_20,brand:Wallace-Carlson#colour:Red#serial:98934,Wallace-Carlson,Red,98934
+21,sku_name_21,brand:Jones Jefferson and Rivera#colour:Cyan#serial:83584,Jones Jefferson and Rivera,Cyan,83584
+22,sku_name_22,brand:Myers Thornton and Hill#colour:Cyan#serial:55488,Myers Thornton and Hill,Cyan,55488
+23,sku_name_23,brand:Myers Thornton and Hill#colour:LightCoral#serial:49638,Myers Thornton and Hill,LightCoral,49638
+24,sku_name_24,brand:Myers Thornton and Hill#colour:MidnightBlue#serial:33368,Myers Thornton and Hill,MidnightBlue,33368
+25,sku_name_25,brand:Jones-Jones#colour:PaleGoldenRod#serial:50902,Jones-Jones,PaleGoldenRod,50902
+26,sku_name_26,brand:Garcia Hamilton and Carr#colour:Orange#serial:53700,Garcia Hamilton and Carr,Orange,53700
+27,sku_name_27,brand:Levy Group#colour:Salmon#serial:10444,Levy Group,Salmon,10444
+28,sku_name_28,brand:Sanchez Ltd#colour:Brown#serial:46007,Sanchez Ltd,Brown,46007
+29,sku_name_29,brand:Levy Group#colour:Wheat#serial:58817,Levy Group,Wheat,58817
+30,sku_name_30,brand:Campos PLC#colour:Orange#serial:80507,Campos PLC,Orange,80507
+31,sku_name_31,brand:Lopez and Sons#colour:GoldenRod#serial:36019,Lopez and Sons,GoldenRod,36019
+32,sku_name_32,brand:Johnson Coleman and Garcia#colour:ForestGreen#serial:25584,Johnson Coleman and Garcia,ForestGreen,25584
+33,sku_name_33,brand:Levy Group#colour:MediumSpringGreen#serial:12863,Levy Group,MediumSpringGreen,12863
+34,sku_name_34,brand:Martinez Clark and Owen#colour:DarkOrchid#serial:27487,Martinez Clark and Owen,DarkOrchid,27487
+35,sku_name_35,brand:Kent Ferguson and Becker#colour:RosyBrown#serial:55488,Kent Ferguson and Becker,RosyBrown,55488
+36,sku_name_36,brand:Grimes-Green#colour:Magenta#serial:30668,Grimes-Green,Magenta,30668
+37,sku_name_37,brand:Wilson-Robinson#colour:MintCream#serial:92265,Wilson-Robinson,MintCream,92265
+38,sku_name_38,brand:Patrick Barrera and Collins#colour:Brown#serial:72338,Patrick Barrera and Collins,Brown,72338
+39,sku_name_39,brand:Harris Lloyd and Payne#colour:LightCoral#serial:12863,Harris Lloyd and Payne,LightCoral,12863
+40,sku_name_40,brand:Myers Thornton and Hill#colour:Ivory#serial:28147,Myers Thornton and Hill,Ivory,28147
+41,sku_name_41,brand:Matthews-Rogers#colour:DarkSeaGreen#serial:48146,Matthews-Rogers,DarkSeaGreen,48146
+42,sku_name_42,brand:Bryan Barnes and Hill#colour:DodgerBlue#serial:14674,Bryan Barnes and Hill,DodgerBlue,14674
+43,sku_name_43,brand:Woodward and Sons#colour:LawnGreen#serial:69372,Woodward and Sons,LawnGreen,69372
+44,sku_name_44,brand:Sanchez Ltd#colour:PapayaWhip#serial:94533,Sanchez Ltd,PapayaWhip,94533
+45,sku_name_45,brand:Harrison Barrera and Hudson#colour:AliceBlue#serial:22816,Harrison Barrera and Hudson,AliceBlue,22816
+46,sku_name_46,brand:Stewart-Allen#colour:LightCoral#serial:80507,Stewart-Allen,LightCoral,80507
+47,sku_name_47,brand:Miller-Salazar#colour:PaleTurquoise#serial:89164,Miller-Salazar,PaleTurquoise,89164
+48,sku_name_48,brand:Matthews-Rogers#colour:DimGray#serial:16534,Matthews-Rogers,DimGray,16534
+49,sku_name_49,brand:Salazar Ltd#colour:LightSlateGray#serial:95899,Salazar Ltd,LightSlateGray,95899
+50,sku_name_50,brand:Martinez Clark and Owen#colour:MintCream#serial:62666,Martinez Clark and Owen,MintCream,62666
+51,sku_name_51,brand:Patrick Barrera and Collins#colour:MintCream#serial:33884,Patrick Barrera and Collins,MintCream,33884
+52,sku_name_52,brand:Sheppard-Tucker#colour:Red#serial:95299,Sheppard-Tucker,Red,95299
+53,sku_name_53,brand:Wallace-Carlson#colour:PeachPuff#serial:10444,Wallace-Carlson,PeachPuff,10444
+54,sku_name_54,brand:Mcdonald Carlson and Lyons#colour:Aquamarine#serial:11166,Mcdonald Carlson and Lyons,Aquamarine,11166
+55,sku_name_55,brand:Grimes-Green#colour:BlanchedAlmond#serial:84379,Grimes-Green,BlanchedAlmond,84379
+56,sku_name_56,brand:Alvarez-Davis#colour:LawnGreen#serial:46697,Alvarez-Davis,LawnGreen,46697
+57,sku_name_57,brand:Greer Wilson and Davis#colour:LightSlateGray#serial:69372,Greer Wilson and Davis,LightSlateGray,69372
+58,sku_name_58,brand:Stewart-Allen#colour:LawnGreen#serial:84379,Stewart-Allen,LawnGreen,84379
+59,sku_name_59,brand:Johnson Inc#colour:Red#serial:25087,Johnson Inc,Red,25087
+60,sku_name_60,brand:Greer Wilson and Davis#colour:DeepSkyBlue#serial:93904,Greer Wilson and Davis,DeepSkyBlue,93904
+61,sku_name_61,brand:Harrison Barrera and Hudson#colour:Aquamarine#serial:81901,Harrison Barrera and Hudson,Aquamarine,81901
+62,sku_name_62,brand:Bell-White#colour:LawnGreen#serial:70118,Bell-White,LawnGreen,70118
+63,sku_name_63,brand:Johnson Inc#colour:PaleGoldenRod#serial:33884,Johnson Inc,PaleGoldenRod,33884
+64,sku_name_64,brand:Mcdonald Carlson and Lyons#colour:Chartreuse#serial:89164,Mcdonald Carlson and Lyons,Chartreuse,89164
+65,sku_name_65,brand:West Miller and Flores#colour:Magenta#serial:73866,West Miller and Flores,Magenta,73866
+66,sku_name_66,brand:Kent Ferguson and Becker#colour:Cyan#serial:73866,Kent Ferguson and Becker,Cyan,73866
+67,sku_name_67,brand:Clayton-Cook#colour:PapayaWhip#serial:12434,Clayton-Cook,PapayaWhip,12434
+68,sku_name_68,brand:Campos PLC#colour:LightSlateGray#serial:58129,Campos PLC,LightSlateGray,58129
+69,sku_name_69,brand:Clayton-Cook#colour:DarkSlateBlue#serial:83584,Clayton-Cook,DarkSlateBlue,83584
+70,sku_name_70,brand:Woodward and Sons#colour:Teal#serial:69372,Woodward and Sons,Teal,69372
+71,sku_name_71,brand:Salazar Ltd#colour:Orange#serial:83584,Salazar Ltd,Orange,83584
+72,sku_name_72,brand:Alvarez-Davis#colour:DodgerBlue#serial:79251,Alvarez-Davis,DodgerBlue,79251
+73,sku_name_73,brand:Moon Davis and Larsen#colour:Aquamarine#serial:98573,Moon Davis and Larsen,Aquamarine,98573
+74,sku_name_74,brand:Faulkner-Howard#colour:GreenYellow#serial:55488,Faulkner-Howard,GreenYellow,55488
+75,sku_name_75,brand:Nguyen Harrell and Lee#colour:LightCoral#serial:59227,Nguyen Harrell and Lee,LightCoral,59227
+76,sku_name_76,brand:Garcia Hamilton and Carr#colour:Teal#serial:50902,Garcia Hamilton and Carr,Teal,50902
+77,sku_name_77,brand:Johnson Inc#colour:Cyan#serial:50902,Johnson Inc,Cyan,50902
+78,sku_name_78,brand:Bolton Burns and Turner#colour:Teal#serial:33368,Bolton Burns and Turner,Teal,33368
+79,sku_name_79,brand:Wilson-Robinson#colour:Brown#serial:11930,Wilson-Robinson,Brown,11930
+80,sku_name_80,brand:Salazar Ltd#colour:Magenta#serial:79150,Salazar Ltd,Magenta,79150
+81,sku_name_81,brand:Jones Jefferson and Rivera#colour:Teal#serial:80507,Jones Jefferson and Rivera,Teal,80507
+82,sku_name_82,brand:Jones Jefferson and Rivera#colour:PapayaWhip#serial:74813,Jones Jefferson and Rivera,PapayaWhip,74813
+83,sku_name_83,brand:Bell-White#colour:GoldenRod#serial:80507,Bell-White,GoldenRod,80507
+84,sku_name_84,brand:Summers Barnett and Smith#colour:PaleGoldenRod#serial:55488,Summers Barnett and Smith,PaleGoldenRod,55488
+85,sku_name_85,brand:Sheppard-Tucker#colour:Cyan#serial:54335,Sheppard-Tucker,Cyan,54335
+86,sku_name_86,brand:Salazar Ltd#colour:AliceBlue#serial:23130,Salazar Ltd,AliceBlue,23130
+87,sku_name_87,brand:Gonzalez-Howard#colour:Magenta#serial:86955,Gonzalez-Howard,Magenta,86955
+88,sku_name_88,brand:Archer-Patel#colour:PaleGoldenRod#serial:62666,Archer-Patel,PaleGoldenRod,62666
+89,sku_name_89,brand:Kent Ferguson and Becker#colour:DeepSkyBlue#serial:90224,Kent Ferguson and Becker,DeepSkyBlue,90224
+90,sku_name_90,brand:Moon Davis and Larsen#colour:Ivory#serial:95100,Moon Davis and Larsen,Ivory,95100
+91,sku_name_91,brand:Miller-Salazar#colour:Aquamarine#serial:11930,Miller-Salazar,Aquamarine,11930
+92,sku_name_92,brand:Matthews-Rogers#colour:LightCoral#serial:68373,Matthews-Rogers,LightCoral,68373
+93,sku_name_93,brand:Campos PLC#colour:PapayaWhip#serial:74813,Campos PLC,PapayaWhip,74813
+94,sku_name_94,brand:Wagner LLC#colour:DimGray#serial:33884,Wagner LLC,DimGray,33884
+95,sku_name_95,brand:Mann-Kelley#colour:Orange#serial:58129,Mann-Kelley,Orange,58129
+96,sku_name_96,brand:Martinez Clark and Owen#colour:DarkSlateBlue#serial:48146,Martinez Clark and Owen,DarkSlateBlue,48146
+97,sku_name_97,brand:Bryan Barnes and Hill#colour:MediumSeaGreen#serial:33368,Bryan Barnes and Hill,MediumSeaGreen,33368
+98,sku_name_98,brand:Bryan Barnes and Hill#colour:PapayaWhip#serial:46697,Bryan Barnes and Hill,PapayaWhip,46697
+99,sku_name_99,brand:Alvarez-Davis#colour:GreenYellow#serial:70118,Alvarez-Davis,GreenYellow,70118
